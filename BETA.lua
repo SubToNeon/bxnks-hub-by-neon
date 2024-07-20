@@ -9,7 +9,7 @@ local Player = game.Players.LocalPlayer
 })
 
 function MakeScriptHub()
-    loadstring(game:HttpGet("https://raw.githubusercontent.com/SubToNeon/Neon.C-Hub-BETA-WORKING-WITH-SOLORA-/main/BETA.lua"))()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/SubToNeon/bxnks-hub-by-neoncat/main/beta.lua"))()
 end
 
 OrionLib:MakeNotification({
@@ -19,7 +19,7 @@ OrionLib:MakeNotification({
 	Time = 5
 })
 
-getgenv().Key = "pastedropontop100"
+getgenv().Key = "bxnks1937"
 getgenv().KeyInput = "string"
 
 local Tab = Window:MakeTab({
@@ -79,7 +79,7 @@ Tab:AddButton({
 Tab:AddButton({
 	Name = "Copy Key Link",
 	Callback = function()
-      		setclipboard("https://paste-drop.com/paste/Bxnks Hub")
+      		setclipboard("https://social-unlock.com/67Wyo")
   	end    
 }) 
     
